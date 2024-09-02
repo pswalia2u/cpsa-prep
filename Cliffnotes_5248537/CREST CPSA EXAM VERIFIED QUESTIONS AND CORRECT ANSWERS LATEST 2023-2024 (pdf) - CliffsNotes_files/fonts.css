@@ -1,0 +1,141 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'ArialRoundedMTBold_8_1';
+    src: url('/doc-asset/font/94e3ebc761b8d764dc9e745b29f5df5586afa5f4.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_1';
+    src: url('/doc-asset/font/e9ab55b2ec7b6e92666ba38c2f219e09dd43dbd0.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_28';
+    src: url('/doc-asset/font/561147de351595ae29fa418f552faacb0012d49c.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_29';
+    src: url('/doc-asset/font/64b1483d2188c874d4f355452d0ded155ba635ea.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_36';
+    src: url('/doc-asset/font/cb302518cc76014f7469efe9a865623806a2e46e.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_37';
+    src: url('/doc-asset/font/b6a1708bdba21a8469e648b039a3202b7717a005.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Arial_a_45';
+    src: url('/doc-asset/font/62192d7bdd27a0f777e430b9fa9be82f96e05f01.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_1';
+    src: url('/doc-asset/font/7a957d0b3bb5f1d37ed0dc755f437d6093ebeda6.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_11';
+    src: url('/doc-asset/font/b37451267f8391ea82ccd4035142f80c23d908e8.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_12';
+    src: url('/doc-asset/font/f35777f77e3cf3e4049f28d3118f6cccfc6afea2.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_17';
+    src: url('/doc-asset/font/cf7f738060135560ae9361a103be8f7f6152daf2.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_18';
+    src: url('/doc-asset/font/0a452ea08515dbdc8281e0d59c9d246f40adfb72.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_2';
+    src: url('/doc-asset/font/b9e4072156c04d7a6491374f80e62a3433cd50ee.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_20';
+    src: url('/doc-asset/font/b1d5988333f525efac8325e36a9bda6f4a46e1b0.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_21';
+    src: url('/doc-asset/font/b26ee33181a5fdcbcc10f227fe8ccf510dbc9982.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_24';
+    src: url('/doc-asset/font/b934420717b9f3f60c54010ee33f8885732e87a2.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_27';
+    src: url('/doc-asset/font/af5bc26b44964b4e407347508cb8a25e9d7dbab8.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_3';
+    src: url('/doc-asset/font/7324cb557768b1a51f19bb0358f4bd1536989d3e.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_30';
+    src: url('/doc-asset/font/e8bf34a6466da15d7cd267c79d2359b20f5bd799.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_31';
+    src: url('/doc-asset/font/59d185809c12c624c0d47701bdc8c2cdf70df66b.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_33';
+    src: url('/doc-asset/font/499c1ca1cce7e8ea14ceebe81eae492be140511c.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_34';
+    src: url('/doc-asset/font/5fd899b3bd5363417bc5180803e2d9d6468c6f6f.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_4';
+    src: url('/doc-asset/font/2895c6b56ea1ac3d46f6a0e05154f9fdede0b58c.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_41';
+    src: url('/doc-asset/font/4d201ef306fcb86804c71b566d6641e0d0b2bbac.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_5';
+    src: url('/doc-asset/font/16afcaa819d2e572d716b2ba597d40aee4afaf7a.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_6';
+    src: url('/doc-asset/font/46ad4b43a38c66968ba93b71de799efbd5bb1bb4.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_8';
+    src: url('/doc-asset/font/34e5325f86a6e8fb025f8abec34f183e6405af25.woff') format('woff');
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BaskervilleOldFace_5_9';
+    src: url('/doc-asset/font/d1a5d68bda19b4885c150c20e0fe3c1d09406914.woff') format('woff');
+    font-display: swap;
+}
